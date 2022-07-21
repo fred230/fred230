@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/fred230/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fred230/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/fred230/github-stats/master/generated/overview.svg#gh-light-mode-only" style="vertical-align: top;" />
+    <img src="https://raw.githubusercontent.com/fred230/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="vertical-align: top;" />
+    <img src="https://raw.githubusercontent.com/fred230/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+    <img src="https://raw.githubusercontent.com/fred230/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  </div>
+</div>
 
-![](https://raw.githubusercontent.com/fred230/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fred230/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+
 
 <!--
 **fred230/fred230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
